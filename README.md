@@ -3,7 +3,7 @@
 About
 =============================
 
-WEJAC is a simpler Java compiler. I was motivated to develop WEJAC for a tool that has fewer compiler options.
+WEJAC is a simpler Java compiler. I was motivated to develop WEJAC for a tool that has fewer compiler options. Download WEJAC_July_2019.zip for entire package, or select the file to access and download.
 
 Features
 ========
