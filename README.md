@@ -1,4 +1,4 @@
-# WEJAC - Will's Elided Java Api Compiler
+# Will's Elided Java Api Compiler
 
 About
 =============================
